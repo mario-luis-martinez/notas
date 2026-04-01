@@ -12,3 +12,7 @@ El repositorio no sigue una estructura estricta. Cada carpeta o archivo puede co
 
 - **Incompleto y Desorganizado**: La mayoría de los archivos no están terminados y pueden carecer de comentarios o documentación.
 - **Propósito de Aprendizaje**: No responden a ningún proyecto real, sino que son ejercicios y notas personales.
+
+
+*el repositorio original es de 2024 pero perdí el acceso a esa cuenta de GITHUB,
+ este es el link: https://github.com/marioveloper/notas
